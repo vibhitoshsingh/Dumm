@@ -11,7 +11,7 @@ namespace Waste.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            //lkjhqdsgcvlokfhjwrefp;lgjhvq
             return View();
         }
     }
